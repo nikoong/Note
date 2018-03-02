@@ -18,3 +18,9 @@ vector
 
 push_back( ele )
 pop_back()
+
+
+
+map
+
+map.find(key_type k) //是否有这个key，如果有返回指向对应值的迭代器；否则返回map::end
