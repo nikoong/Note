@@ -70,6 +70,9 @@ sigprocmask(SIG_SETMASK, &prev_all, NULL); //解除屏蔽。
 
 未完待续，持续更新。
 
-
+- [CS:APP配套实验5：Shell Lab笔记](https://zhuanlan.zhihu.com/p/28695244)
+- [CS:APP3e-labs Shell Lab 解题报告](http://zxcpyp.com/csapp/2017/12/16/Shell-Lab)
+- [【不周山之读厚 CSAPP】V Shell Lab ](http://wdxtub.com/2016/04/16/thick-csapp-lab-5/)
+- [CSAPP: Shell Lab ](https://blog.csdn.net/u012336567/article/details/51926577)
 
 
