@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+class Foo{public: int val;Foo *pnext;};
+
+int main()
+{
+	Foo bar;
+	cout << bar.val << endl;
+    cout << bar.pnext << endl;
+   return 0;
+}
